@@ -1,66 +1,43 @@
+var bio = {
+    "name": "Zeleng Zhuang",
+    "role": "Software Developer",
 
-$("#main").append(["zeleng zhuang","eaoe"]);
-var aw = "I am Zeleng Zhuang, and I am awesome.";
-console.log(aw);
-var fun = aw.replace("awesome", "fun");
-$("#main").append(fun); 
+    "contact": {
+        "mobile": "(347)-220-2813",
+        "email": "Zhuangzeleng19920731@gmail.com",
+        "github": "https://github.com/orzzzl",
+        "facebook": "https://www.facebook.com/zeleng.zhuang",
+        "location": "428 60th St, Brooklyn, NY 11220",
+        "welcomeMessage": "Hey guys, this is ZZL. Welcome to my page!"
+    },
 
-var formattedName = HTMLheaderName.replace("%data%", "Zeleng Zhuang");
-$("#header").append(formattedName);
+    "skills": [
+        "python", "C/C++", "JAVA", "HTML/CSS"
+    ],
 
-var formattedRole = HTMLheaderRole.replace("%data%", "Web Developer");
-$("#header").prepend(formattedRole);
-
+    "biopic": "pic/DSC_26000.jpg"
+}
 
 var education = {
-    "schools": [
+    "schools" = [
         {
             "name": "Shanghai Jiao Tong University",
-            "city": "Shanghai",
-            "degree": "BA",
-            "major": "Micro-Electronics"
+            "location": "Shanghai China",
+            "degree": "BS",
+            "major": "Micro-Electronics",
+            "dates": "09/04/2010 - 06/29/2014"
         },
+
         {
             "name": "New York University",
-            "city": "New York",
+            "location": "NY, NY, USA",
             "degree": "MS",
-            "major": "Computer Science"
+            "major": "Computer Science",
+            "dates": "01/26/2015 - Present"
         }
-    ],
-    
-    "online courses": [
-        "introduction to computer science", "javascript basic"]
-}
 
 
-var bio = {
-    "name":"Zeleng Zhuang",
-    "age":22,
-    "gender":"male",
-    "nationality":"China"
-}
+    ]
 
-var ii=0;
-
-$(document).click(function(locyy) {
-  // your code goes here!
-  var x = locyy.pageX;
-
-  var y = locyy.pageY;
-  
-  logClicks (x, y);
-});
-
-function inName (name) {
-    return name[0] + ii;
 
 }
-
-
-$("#main").append (internationalizeButton);
-$("#main").append ("<h1>Ineaoeaize</h1>");
-
-$("#mapDiv").append (googleMap);
-
-
-
