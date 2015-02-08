@@ -15,11 +15,11 @@ var bio = {
         "python", "C/C++", "JAVA", "HTML/CSS"
     ],
 
-    "biopic": "pic/DSC_26000.jpg"
+    "biopic": "./images/fry.jpg"
 }
 
 var education = {
-    "schools" = [
+    "schools": [
         {
             "name": "Shanghai Jiao Tong University",
             "location": "Shanghai China",
@@ -36,8 +36,16 @@ var education = {
             "dates": "01/26/2015 - Present"
         }
 
-
     ]
 
-
 }
+var myPic = HTMLbioPic.replace ("%data", bio.biopic);
+var myName = HTMLheaderName.replace ("%data%", bio.name);
+var myRole = HTMLheaderRole.replace ("%data%", bio.role);
+$('#header').append (myName);
+$('#header').append (myRole);
+
+$('#header').prepend (myPic);
+
+
+

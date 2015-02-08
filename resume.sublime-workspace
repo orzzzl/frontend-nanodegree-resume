@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"my",
+				"myRole"
+			],
+			[
 				"log",
 				"logClicks"
 			],
@@ -52,42 +56,13 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"contents": "",
+			"file": "/Users/zelengzhuang/Downloads/bootstrap (1)/css/test.html",
+			"file_size": 0,
+			"file_write_time": 1423079386000000,
 			"settings":
 			{
-				"buffer_size": 5114,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/style.css",
-			"settings":
-			{
-				"buffer_size": 2745,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/helper.js",
-			"settings":
-			{
-				"buffer_size": 8630,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/jQuery.js",
-			"settings":
-			{
-				"buffer_size": 261746,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/resumeBuilder.js",
-			"settings":
-			{
-				"buffer_size": 1305,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -95,15 +70,55 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"ter",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"gith",
+				"Github: Open File"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install P",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 0.0
+		"width": 467.0
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 125.0
 	},
 	"distraction_free":
 	{
@@ -116,8 +131,16 @@
 	},
 	"file_history":
 	[
-		"/Volumes/NIMEI/back/paper/CIS2014/IEEECS_CPS_LaTeX_Letter_2Col-2/A Countermeasure for DES with both Rotating Masks and Secured S-boxes.tex",
+		"/Users/zelengzhuang/workshop/udacity/frontend-nanodegree-resume/README.md",
+		"/Users/zelengzhuang/Library/Application Support/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
 		"/Users/zelengzhuang/workshop/udacity/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/Users/zelengzhuang/workshop/udacity/frontend-nanodegree-resume/js/jQuery.js",
+		"/Users/zelengzhuang/workshop/udacity/frontend-nanodegree-resume/js/helper.js",
+		"/Users/zelengzhuang/workshop/udacity/frontend-nanodegree-resume/css/style.css",
+		"/Users/zelengzhuang/workshop/udacity/frontend-nanodegree-resume/index.html",
+		"/Users/zelengzhuang/workshop/udacity/frontend-nanodegree-resume/images/fry.jpg",
+		"/Users/zelengzhuang/workshop/udacity/frontend-nanodegree-resume/resume.sublime-project",
+		"/Volumes/NIMEI/back/paper/CIS2014/IEEECS_CPS_LaTeX_Letter_2Col-2/A Countermeasure for DES with both Rotating Masks and Secured S-boxes.tex",
 		"/Users/zelengzhuang/workshop/udacity/the mock up project/css/bootstrap.css",
 		"/Users/zelengzhuang/workshop/udacity/the mock up project/bootstrap-prestructure.html",
 		"/Users/zelengzhuang/workshop/udacity/1/framework/test.html",
@@ -158,145 +181,31 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "/Users/zelengzhuang/Downloads/bootstrap (1)/css/test.html",
 					"settings":
 					{
-						"buffer_size": 5114,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4796,
-								4796
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "css/style.css",
-					"settings":
-					{
-						"buffer_size": 2745,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								217,
-								217
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "js/helper.js",
-					"settings":
-					{
-						"buffer_size": 8630,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3912,
-								3912
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2347.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "js/jQuery.js",
-					"settings":
-					{
-						"buffer_size": 261746,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								61,
-								43
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 9576.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "js/resumeBuilder.js",
-					"settings":
-					{
-						"buffer_size": 1305,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1301,
-								1301
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 261.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -310,7 +219,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -350,11 +259,11 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,
